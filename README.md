@@ -4,6 +4,32 @@ The columns of importance were the Intensity and Volume metrics. For Volume: Dis
 
 Code: Python version 3.8.3 was used to run the code.
 
-Techniques used: K-Means nd Elbow Methods.
+Techniques used: K-Means and Elbow Methods.
 
-All imports are included in the first cell of each jupyter notebook.
+All imports are included in the first cell of each Jupyter Notebook.
+
+To understand, Player Codes and Positions are highlighted below. F = Foward, MF = Midfield, D = Defense (Goalkeepers fell underneath defense)
+
+Player Codes:
+C(MF)
+M(D)
+B(F)
+S(MF)
+R(D)
+O(F)
+J(F)
+G(F)
+H(F)
+E(MF)
+F(GK)
+K(D)
+V(MF)
+X(GK)
+U(MF)
+I(F)
+L(D)
+N(F)
+P(F)
+Q(MF)
+A(D)
+Z(F)
