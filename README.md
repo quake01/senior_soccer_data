@@ -12,25 +12,46 @@ To understand, Player Codes and Positions are highlighted below. F = Foward, MF 
 
 Player Codes:
 C(MF)
+
 M(D)
+
 B(F)
+
 S(MF)
+
 R(D)
+
 O(F)
+
 J(F)
+
 G(F)
+
 H(F)
+
 E(MF)
+
 F(GK)
+
 K(D)
+
 V(MF)
+
 X(GK)
+
 U(MF)
+
 I(F)
+
 L(D)
+
 N(F)
+
 P(F)
+
 Q(MF)
+
 A(D)
+
 Z(F)
 
