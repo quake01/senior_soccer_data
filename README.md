@@ -4,4 +4,6 @@ The columns of importance were the Intensity and Volume metrics. For Volume: Dis
 
 Code: Python version 3.8.3 was used to run the code
 
-Techniques used: K-Menas algorithm and Elbow Methods.
+Techniques used: K-Means nd Elbow Methods.
+
+All imports are included in the first cell of each jupyter notebook
